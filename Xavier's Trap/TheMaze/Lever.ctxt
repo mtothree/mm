@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Lever\ is\ the\ object\ that\ has\ to\ be\ hit\ in\ order\ to\ open\ the\ door.\ If\ we\ hit\ it,\ the\ door\ is\ opened\ and\ the\ lever\ changes\ image.\ The\ lever\ also\ uses\r\n\ the\ methods\ canSee\ from\ the\ Player.class.\r\n
+comment1.params=
+comment1.target=void\ changeState()
+comment2.params=
+comment2.target=void\ checkForPlayer()
+comment3.params=clss
+comment3.target=boolean\ canSee(java.lang.Class)
+numComments=4

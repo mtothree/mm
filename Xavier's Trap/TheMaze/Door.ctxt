@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Door.class\ is\ the\ door\ that\ is\ opened\ up\ by\ the\ lever.\ When\ we\ hit\ the\ lever,\ we\ open\ the\ door.\ The\ door\ also\ changes\ images\ using\ the\ basic\ animation\r\n\ changeState\ method.\r\n
+comment1.params=
+comment1.target=void\ changeState()
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+numComments=3
